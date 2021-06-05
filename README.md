@@ -2,7 +2,7 @@
 
 <h2>SortingStack</h2>
 
-### General ingo
+### General info
 
   * We're using STL stacks to implement an application that sorts a stack.
   * We start filling 20 elements into the stack.
