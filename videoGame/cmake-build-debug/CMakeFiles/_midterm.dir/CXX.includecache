@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/Semester 4/Data Structures & Algorithm - CE242/ midterm/ VideoGame.h
+iostream
+-
+
+C:/Users/user/Desktop/Semester 4/Data Structures & Algorithm - CE242/ midterm/main.cpp
+iostream
+-
+ VideoGame.h
+C:/Users/user/Desktop/Semester 4/Data Structures & Algorithm - CE242/ midterm/ VideoGame.h
+stack
+-
+iterator
+-
+
