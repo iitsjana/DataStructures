@@ -28,4 +28,9 @@
 * For each algorithm, we have a counter to count how many times a comparison is made to sort the array.
 * Once this logic is implemented, we create integer arrays of 1000 and 10000 elements with random values inside.
 * Then we output the result which shows how many comparisons it made for each algorithm for 1000 and 10000 elements.
-*/
+
+<h2>queues</h2>
+
+### General info
+
+* We implement a customer class using queues 
