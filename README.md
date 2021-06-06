@@ -33,4 +33,4 @@
 
 ### General info
 
-* We implement a customer class using queues 
+* We implement a customer class using queues.
