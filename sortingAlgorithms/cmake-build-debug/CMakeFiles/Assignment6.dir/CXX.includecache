@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/Semester 4/Data Structures & Algorithm - CE242/Assignment6/main.cpp
+iostream
+-
+time.h
+-
+
