@@ -40,9 +40,9 @@
 ### General info
 
 This code tackles an orthagonal triangle maximum path sum problem where:
- * 1. we start from the top and move downwards to an adjacent number.
- * 2. we are only allowed to walk downwards and diagonally.
- * 3. we can only walk over NON PRIME NUMBERS.
- * 4. we have to reach at the end of the pyramid as much as possible.
- * 5. we have to treat your input as pyramid.
+ * we start from the top and move downwards to an adjacent number.
+ * we are only allowed to walk downwards and diagonally.
+ * we can only walk over NON PRIME NUMBERS.
+ * we have to reach at the end of the pyramid as much as possible.
+ * we have to treat your input as pyramid.
  
